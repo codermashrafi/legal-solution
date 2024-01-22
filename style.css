@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h4,
+h3,
+h5,
+h6 {
+  font-family: "EB Garamond", serif;
+}
+
+.header-color {
+  color: #414040;
+}
+
+.pra-color {
+  color: #707070;
+}/*# sourceMappingURL=style.css.map */
